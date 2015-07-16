@@ -1,3 +1,4 @@
+// vim: set ft=javascript:
 /**
   Copyright (C) 2012-2013 by Autodesk, Inc.
   All rights reserved.
