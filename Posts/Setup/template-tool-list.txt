@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<head>
+</head>
+<body>
+<div class="container">
+{{#tools}}
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-8"><h2>T{{number}}</h2></div>
+<div class="col-xs-6 col-md-4">{{#image}}<img src="{{image}}" />{{/image}}</div>
+</div>
+{{/tools}}
+</div>
+</body>
+</html>
